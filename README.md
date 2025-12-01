@@ -94,6 +94,7 @@ pygame        # Reproducción de audio
 numpy         # Generación de sonido
 sqlite3       # Base de datos local (incluido en Python)
 
+
 ## ▶️ Cómo Ejecutar
 
 Instala las dependencias necesarias:
